@@ -4,7 +4,8 @@
 
 ### ERD
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/c5cbb1d0-03a2-4411-880b-af736e6dbfbf/Untitled.png)
+![image](https://github.com/Eun-SeoKim/zerobase_commerce/assets/129722254/92f9c2aa-b490-4913-8490-d0e873978f52)
+
 
 ### 사용 기술 스택
 
